@@ -1,0 +1,7 @@
+<div id="row-1" class="row">
+    <h2>first row</h2>
+    <p>and more...</p>
+</div><div id="row-2" class="row">
+    <h2>second row</h2>
+    <p>nothing special</p>
+</div>
